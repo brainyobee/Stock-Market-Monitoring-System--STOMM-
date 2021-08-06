@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "935348919671",
+    "firebase_url": "https://stom-5b1cb-default-rtdb.firebaseio.com",
+    "project_id": "stom-5b1cb",
+    "storage_bucket": "stom-5b1cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935348919671:android:169100509a0ee99ba85572",
+        "android_client_info": {
+          "package_name": "com.stom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935348919671-mti1jgpdu5qfbfa9gb7hovok7b4um9sn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXQFBcfxHeOl20JoiA-OBL0e1MpHTjhrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935348919671-mti1jgpdu5qfbfa9gb7hovok7b4um9sn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
